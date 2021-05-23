@@ -7,9 +7,9 @@
 -   🤖 I have a discord bot which is in over 6k servers
 
 ### Some of my favourite repos:
+-   [A* Pathfinding](https://github.com/PlebusSupremus1234/A-Star-Pathfinding) (A demo of the A* Pathfinding algorithm)
 -   [Langton's Ant Visualization](https://github.com/PlebusSupremus1234/Langtons-Ant) (An interactive simulation for the turing machine "Langton's Ant")
 -   [Closest Match](https://github.com/Plebus-Supremus1234/closest-match) (An NPM module which finds the closest match to a string)
--   [A* Pathfinding](https://github.com/PlebusSupremus1234/A-Star-Pathfinding) (A demo of the A* Pathfinding algorithm)
 
 ### My Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=PlebusSupremus1234&show_icons=true&locale=en&theme=default&layout=compact">
