@@ -18,4 +18,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PlebusSupremus1234&show_icons=true&locale=en&layout=compact&theme=default">
 
 ### Contact me:
--   My Discord ID is Plebus Supremus#2400
+-   My Discord ID is Plebus Supremus#4334
